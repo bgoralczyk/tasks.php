@@ -33,7 +33,7 @@ $LANG = array(
     "low" => "Low",
     "onhold" => "On hold",
     "tasks" => "Tasks",
-    "taskupdated" => "Task updated",
+    "taskupdated" => "Task updated<br>",
     "redirected" => "You will now be redirected back to the task list. <br /><a href=\"index.php\">If that does not happen, please click here.</a>",
     "eupdatetask" => "Error: Task could not be updated.",
     "etasknotfound" => "Error: Task not found.",
